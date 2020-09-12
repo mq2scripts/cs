@@ -1,0 +1,8 @@
+#include cs/main.inc
+#include cs/shm/loop.inc
+#turbo 20
+
+Sub Main
+    /call MainInit
+    /call ShmLoop
+/return
